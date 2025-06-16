@@ -1,3 +1,19 @@
-p {
-    font-family: "Georgia";
+body {
+  padding: 25px;
+  font-family: "Georgia";
+  width: 634px;
+  margin: 10px auto;
+  font-size: 14pt;
+}
+
+.bio {
+  border: 1px gray solid;
+  background: gray;
+  padding: 0 20px;
+}
+
+.notice {
+  border: 1px gray solid;
+  background: gray;
+  padding: 0 20px;
 }
