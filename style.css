@@ -9,12 +9,12 @@ body {
 
 .bio {
   border: 1px gray solid;
-  background: gray;
+  background: rgb(181, 181, 181);
   padding: 0 20px;
 }
 
 .notice {
   border: 1px gray solid;
-  background: rgb(159, 159, 159);
+  background: rgb(181, 181, 181);
   padding: 0 20px;
 }
