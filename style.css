@@ -4,7 +4,7 @@ body {
   width: 634px;
   margin: 10px auto;
   font-size: 14pt;
-  background: rgb(172, 172, 172)
+  background: rgb(181, 181, 181)
 }
 
 .bio {
@@ -15,6 +15,6 @@ body {
 
 .notice {
   border: 1px gray solid;
-  background: gray;
+  background: rgb(159, 159, 159);
   padding: 0 20px;
 }
