@@ -28,3 +28,10 @@ body {
 .current-page {
   font-weight: bold;
 }
+
+.navigation {
+  display: inline-block;
+  padding: 0 10px;
+  background-color:dodgerblue;
+  border: 1px black solid;
+}
