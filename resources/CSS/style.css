@@ -21,4 +21,5 @@ body {
 
 .graphic {
   padding: 10px;
+  max-width: 640px;
 }
