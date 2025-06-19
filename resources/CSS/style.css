@@ -23,6 +23,7 @@ body {
   padding: 10px;
   max-width: 640px;
   display: inline-block;
+  border: 1px black solid;
 }
 
 .current-page {
