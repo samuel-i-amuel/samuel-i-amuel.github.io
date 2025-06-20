@@ -33,6 +33,7 @@ body {
 .navigation {
   background-color: #bcbcbc;
   border: 1px black solid;
+  margin: 0 0 10px 0;
 }
 
 .navigation li {
