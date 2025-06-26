@@ -40,3 +40,7 @@ body {
   display: inline-block;
   padding: 0 10px;
 }
+
+#banner {
+  background-image: url("../Photos/moonrise.jpg")
+}
