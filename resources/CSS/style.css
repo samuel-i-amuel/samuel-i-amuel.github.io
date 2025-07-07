@@ -57,5 +57,6 @@ body {
 
 .contact.codecademy {
   display: inline-flex;
+  height: 100%;
   align-items: center;
 }
