@@ -54,3 +54,8 @@ body {
   padding-left: 35px;
   padding-top: 30px;
 }
+
+.contact .codecademy {
+  display:flex;
+  align-items: center;
+}
