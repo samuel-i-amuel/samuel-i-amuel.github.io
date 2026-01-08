@@ -41,6 +41,10 @@ body {
   padding: 0 10px;
 }
 
+.photography {
+  max-width: 640px;
+}
+
 #banner {
   background-image: url("../Photos/moonrise.jpg");
   background-size: cover;
