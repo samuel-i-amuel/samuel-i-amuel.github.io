@@ -4,7 +4,8 @@ body {
   width: 634px;
   margin: 10px auto;
   font-size: 14pt;
-  background: rgb(235, 235, 235)
+  background: rgb(235, 235, 235);
+  box-sizing:border-box
 }
 
 .chart {
@@ -24,6 +25,7 @@ body {
   max-width: 640px;
   display: inline-block;
   border: 1px black solid;
+  box-sizing: border-box;
 }
 
 .current-page {
