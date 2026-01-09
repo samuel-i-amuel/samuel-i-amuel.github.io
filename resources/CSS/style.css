@@ -44,7 +44,7 @@ body {
 }
 
 .photography {
-  max-width: 640px;
+  max-width: 100%;
   border: 1px black solid;
 }
 
