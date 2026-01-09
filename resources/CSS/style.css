@@ -45,6 +45,7 @@ body {
 
 .photography {
   max-width: 640px;
+  border: 1px black solid;
 }
 
 #banner {
