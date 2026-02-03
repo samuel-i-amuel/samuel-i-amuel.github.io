@@ -68,6 +68,10 @@ body {
   align-items: center;
 }
 
+#twin_cities_map {
+  height: 400px;
+}
+
 @media only screen and (min-resolution: 300dpi) {
   body {
     width: 95%;
