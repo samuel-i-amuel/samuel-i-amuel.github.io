@@ -70,6 +70,7 @@ body {
 
 #twin_cities_map {
   height: 400px;
+  border: 1px black solid;
 }
 
 @media only screen and (min-resolution: 300dpi) {
