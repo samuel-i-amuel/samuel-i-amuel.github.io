@@ -50,7 +50,7 @@ body {
 
 #banner {
   background-image: url("../Photos/moonrise.jpg");
-  background-size: cover;
+  background-size: contain;
   height: 438px;
   width: 100%;
 }
