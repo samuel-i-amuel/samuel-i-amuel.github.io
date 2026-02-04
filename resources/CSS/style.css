@@ -49,7 +49,7 @@ body {
 }
 
 #banner {
-  background-image: url("../Photos/moonrise.jpg");
+  background-image: url("../Photos/moonrise-compressed.jpg");
   background-size: cover;
   background-position: center;
   height: 438px;
