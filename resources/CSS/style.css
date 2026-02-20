@@ -18,6 +18,11 @@ body {
   border: 1px gray solid;
   background: rgb(181, 181, 181);
   padding: 0 20px;
+  margin-top: 30px;
+}
+
+.bio h2 {
+  margin-top: 20px;
 }
 
 .graphic {
